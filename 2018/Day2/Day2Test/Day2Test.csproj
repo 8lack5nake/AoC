@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{533935F0-1974-473E-9DCC-CCE2FB0E0732}</ProjectGuid>
+    <ProjectGuid>{FB281F95-06A2-4C86-9D35-2BD072499B8A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Day1Test</RootNamespace>
-    <AssemblyName>Day1Test</AssemblyName>
+    <RootNamespace>Day2Test</RootNamespace>
+    <AssemblyName>Day2Test</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -50,13 +50,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Day1Test.cs" />
+    <Compile Include="Day2Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Day1\Day1.csproj">
-      <Project>{dc694ca0-929f-4302-ac8a-ecefbeee2f1a}</Project>
-      <Name>Day1</Name>
+    <ProjectReference Include="..\Day2\Day2.csproj">
+      <Project>{d4ad29dd-0c86-4f60-9d7b-9098cdd84173}</Project>
+      <Name>Day2</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
