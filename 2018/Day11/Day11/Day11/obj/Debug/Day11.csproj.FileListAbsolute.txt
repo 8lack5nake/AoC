@@ -1,0 +1,6 @@
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\bin\Debug\Day11.exe.config
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\bin\Debug\Day11.exe
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\bin\Debug\Day11.pdb
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\obj\Debug\Day11.csprojResolveAssemblyReference.cache
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\obj\Debug\Day11.exe
+C:\Development\C#\AOC\2018\Day11\Day11\Day11\obj\Debug\Day11.pdb
